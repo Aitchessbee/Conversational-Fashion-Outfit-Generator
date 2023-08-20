@@ -1,0 +1,29 @@
+.conversationalContainer {
+    height: 100vh;
+}
+
+.conversationHeading {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Libre Baskerville", "serif";
+    margin-top: 30px;
+}
+
+.messages {
+    min-height: 80vh;
+}
+
+.assisstantMessage {
+    display: flex;
+    gap: 20px;
+}
+
+/* .message {
+    max-width: 300px;
+} */
+
+.textFieldContainer {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}

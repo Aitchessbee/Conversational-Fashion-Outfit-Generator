@@ -1,0 +1,36 @@
+.typewriterContainer {
+    margin-top: 60px;
+    min-height: 350px;
+}
+
+.typewriter {
+    font-size: 70px;
+    font-weight: 500;
+    font-family: "Libre Baskerville", "serif";
+}
+
+.buttonContainer {
+    display: flex;
+    align-items: center;
+    /* padding: 0 20px; */
+}
+
+.customizeButton {
+    background-color: transparent;
+    height: 40px;
+    width: 200px;
+    border-radius: 2px;
+    font-size: 15px;
+    display: block;
+    margin-right: 30px;
+}
+
+.customizeButton:hover {
+    background-color: #000;
+    color: white;
+    cursor: pointer;
+}
+
+.buttonText {
+    max-width: 400px;
+}

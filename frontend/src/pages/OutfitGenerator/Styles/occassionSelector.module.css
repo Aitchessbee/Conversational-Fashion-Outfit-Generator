@@ -1,0 +1,20 @@
+.button {
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.icon {
+    font-size: 80px;
+}
+
+.selected {
+    background-color: #333;
+    color: white;
+}

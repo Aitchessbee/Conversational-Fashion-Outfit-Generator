@@ -1,0 +1,27 @@
+.navbarContainer {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 0 100px; */
+}
+
+.navbarRight {
+    display: flex;
+}
+
+.links {
+    text-transform: uppercase;
+    margin-right: 40px;
+}
+
+.link {
+    color: #000;
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+.linkIcon {
+    color: #333;
+    text-decoration: none;
+}

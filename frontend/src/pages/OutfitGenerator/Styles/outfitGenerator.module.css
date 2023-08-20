@@ -1,0 +1,52 @@
+.heading {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Libre Baskerville", "serif";
+    font-weight: 500;
+}
+
+.ageSelectors {
+    display: flex;
+    gap: 10px;
+    /* margin-bottom: 40px; */
+}
+
+.genderAndSizeContainer {
+    /* display: flex;
+    align-items: center;
+    gap: 200px; */
+    /* justify-content: space-between; */
+}
+
+.genderSelectors {
+    display: flex;
+    gap: 10px;
+}
+
+.sizeSelectors {
+    display: flex;
+    gap: 10px;
+    /* margin-bottom: 100px; */
+}
+
+.occassionSelectors {
+    display: flex;
+    gap: 10px;
+}
+
+.buttonContainer {
+    text-align: center;
+    margin: 50px;
+}
+
+.submitButton {
+    color: white;
+    background-color: #333;
+    width: 150px;
+    height: 40px;
+    border-radius: 2px;
+}
+
+.submitButton:hover {
+    background-color: black;
+}
